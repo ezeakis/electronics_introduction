@@ -1,8 +1,16 @@
 ## Introduction
 
-Children will have their first introduction to electronics.
+Add project description here. What will learners be making?
 
 ### What you will make
+
+--- no-print ---
+Add instructions for using the embedded content here.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /no-print ---
 
 --- print-only ---
 ![Complete project](images/showcase_static.png)
@@ -14,17 +22,13 @@ title: What you will need
 ---
 ### Hardware
 
-For the game
-+ 1 rope
-+ 1 stool
-+ 1 light item (could be a pencil, a ruler, it doesn't actually matter as long as the child can lift it up and put it down easily)
++ Describe hardware here
 
-For the circuit
-+ 1 breadboard
-+ 1 battery case 2 X AA or AAA batteries
-+ 2 AA or AAA batteries
-+ 1 LED
-+ 1 100/220/330 Ohm resistor
+### Software
+
++ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Python 3
++ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
@@ -37,11 +41,8 @@ For the circuit
 title: What you will learn
 ---
 
-+ What it means to be a maker
-+ What electrons are
-+ How we control electrons movement
-+ How we create a simple LED circuit
-+ Which are the basic components or a circuit and what they are used for.
++ Two or three learning objectives
++ ...should go here
 
 --- /collapse ---
 
