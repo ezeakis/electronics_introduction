@@ -31,4 +31,4 @@ Lines on breadboard are like small cables. Placing two elements on the same line
 
 Assemble the above circuit and see the LED turning on. You should use a 100 Ohm resistor.
 
-Your journey to electronics worls has just begun!
+Your journey to electronics world has just begun!
