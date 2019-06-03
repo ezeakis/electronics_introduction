@@ -1,20 +1,16 @@
 ## Electrons
 
-All electronic devices operation is based on how electrons move. We are all made by them, but it somehow difficult sometimes to visualize them. 
+Electrons are **incredibly** tiny particles. To get some idea of how small, imagine taking all the water in the world and pouring it into regular sized drinking glasses. Once you had used up every drop of water, you'd still only have one tenth as many glasses of water as there are electrons in a single grain of table salt!
 
-In the following video we can get a clue. Electrons are located on the circle in the end of the video.
+Electrons are part of atoms — the tiny particles of matter that make up everything in the universe. In the following image(*) you can see how the electrons form part of an atom of [element name].
 
-[Electrons in the microcosm](https://youtu.be/mwEmLOa7gDk)
+What we call 'electricity' is just moving electrons around. All electronic devices work this way, and so do the nerves in your body that let you move your hand, or see these words in front of you. Electrons move very fast, which is why you don't see a delay when you switch on a light, and why computers can do complicated things so quickly!
 
-In the following image(*) we can see a sketch of how they orbit around the atom kernel.
+Electrons need a path to move through and, just like water, they will usually take the path that is easiest for them. Where it's available, this is a path through metal, so we use wires for this reason. These wires are usually covered in a material the electrons find it hard to move through, like plastic, to protect us from shocking ourselves.
 
-Electrons move very fast. When we managed to control their movement, we started creating all these nice electronics devices.
+To push the electrons in a wire we need to use voltage. We can get voltage from a battery. The more volts a battery has, the more powerful it is and the harder it can push the electrons.
 
-To push the electrons we need voltage. We get voltage from a battery. The more volts a battery has, the more powerful it can be and the stronger it can push the electrons.
-
-Electrons need a path to move. Usually we use cables for this reason.
-
-In the first step we will play a game in order to understand what is happening with the electrons.
+In the next step we will play a game in order to understand what is happening with the electrons.
 
 
 (*) to be added

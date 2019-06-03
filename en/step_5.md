@@ -1,34 +1,28 @@
-## A simple LED circuit
+## An LED circuit
 
-With the game we learnt 
+From the game we learned: 
 
-+ how the electrons travel throught the cables
-+ what the battery does
-+ how the electrons light the LED
-+ what the resistor is used for
++ how electrons travel through wires
++ what a battery does
++ how electrons light an LED
++ what a resistor is used for
 
-So, if we connect a battery on the two edges of a cable, then the electrons will begin to run. If we use this movement effectively we can do a lot of things.
+So, if we connect a battery to the two ends of a wire, then the electrons will begin to flow. If we use this movement effectively we can do a lot of things. You're going to create an example using an LED.
 
-Now we are going to create a simple LED circuit
-
-You can see the image below
-
-![LED Circuit](images/introduction_bb-240x300.jpg)
-
-Electrons begin from the one battery cable, they go to the resistor, they go to the LED, they turn it on and they end up to the other battery cable, starting over again.
-
-We can observe that electrons leave the battery, they return to it and they leave it again. We will never meet a functioning circuit without a closed loop. It is very helpful to discover these loops when we see a circuit. Thus, we will understand better its operation.
-
-This white thing in the right? This is a breadboard.
-
-Breadboard helps us to position our electronic elements in order to create circuits.
-
-Let’s see the next image
+You will use a breadboard, which helps and connect position electronic components without the need to create permanent joins between them.
 
 ![Breadboard](images/basic_breadboard_layout-300x193.png)
 
-Lines on breadboard are like small cables. Placing two elements on the same line is like connecting them with a cable.
+Lines on a breadboard are like small wires. Placing two components on the same line is like connecting them with a wire.
 
-Assemble the above circuit and see the LED turning on. You should use a 100 Ohm resistor.
+Here is a diagram of the circuit you will create. You should use a 100 Ohm resistor.
+
+![LED Circuit](images/introduction_bb-240x300.jpg)
+
+Electrons begin from the one end of the battery, pass through the wire, to the resistor, then into the LED where they light it up before flowing through the wire and back into the other end of the battery, starting over again.
+
+We can observe that electrons leave the battery, they return to it, and they leave it again. We will never meet a functioning circuit without a closed loop.
+
+Assemble the circuit and see the LED light up! 
 
 Your journey to electronics world has just begun!
