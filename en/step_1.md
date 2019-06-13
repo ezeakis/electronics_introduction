@@ -4,7 +4,7 @@ You are going to learn the science behind how electronics work. This makes every
 
 ### What you will make
 
-![Complete project](images/IMG_20190613_191441b.png)
+![Complete project](images/IMG_20190613_191441b.jpg)
 
 --- collapse ---
 ---
