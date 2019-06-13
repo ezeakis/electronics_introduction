@@ -1,12 +1,10 @@
 ## Introduction
 
-Children will have their first introduction to electronics.
+You are going to learn the science behind how electronics work. This makes everything from lightbulbs, to computers, to the internet work, so it's basically the science behind our modern world!
 
 ### What you will make
 
---- print-only ---
 ![Complete project](images/showcase_static.png)
---- /print-only ---
 
 --- collapse ---
 ---
@@ -15,14 +13,14 @@ title: What you will need
 ### Hardware
 
 For the game
-+ 1 rope
-+ 1 stool
++ 1 rope, or a roll of tape to lay out a line on the floor
++ 1 chair, or another object to create an obstruction on the line
 + 1 light item (could be a pencil, a ruler, it doesn't actually matter as long as the child can lift it up and put it down easily)
++ 1 chair, table, or other platform on which to place the lightweight object
 
 For the circuit
 + 1 breadboard
-+ 1 battery case 2 X AA or AAA batteries
-+ 2 AA or AAA batteries
++ 1 battery case with two AA or AAA batteries
 + 1 LED
 + 1 100/220/330 Ohm resistor
 
@@ -37,11 +35,10 @@ For the circuit
 title: What you will learn
 ---
 
-+ What it means to be a maker
 + What electrons are
-+ How we control electrons movement
-+ How we create a simple LED circuit
-+ Which are the basic components or a circuit and what they are used for.
++ How we control electrons' movement
++ How to create a simple circuit with an LED
++ The basic components of a circuit and their uses
 
 --- /collapse ---
 

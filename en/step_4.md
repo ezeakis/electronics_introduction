@@ -1,29 +1,31 @@
 ## Game of Electrons
 
-With this game we will understand what is happening with the electrons.
+This game will help participants understand how electrons behave in an electronic circuit.
 
-A mentor (or a teacher) unwraps the rope and puts its edges under their feet, one under the left and the other under the right.
+### Setup
 
-The rope should make a circle in front of them.
+ 1. One participant will act as the 'battery', standing with their feet apart and staying in the same spot throughout the game.
 
-The opposite side of the rope should come close to a table where the light item (eg pencil) will be placed.
+ 2. The 'battery' participant stands opposite a table, upon which a lightweight object (e.g. a pencil) is placed.
 
-The mentor declares that they are the battery and the children are the electrons.
+ 3. Use rope, or tape, to create a 'circuit' that starts at one of the 'battery' participant's feet, forms a loop which passes near the table, and continues on to the 'battery' participant's other foot.
 
-They push the children, which should travel in parallel with the rope.
+### Play
 
-Each children that reaches the pencil, it raises it up and places it down and continues its trip.
+ 1. The remaining participants will act as electrons in this 'circuit'.
 
-When they reach the mentor, the mentor pushes them again.
+ 2. The mentor explains how batteries 'push' electrons through circuits, causing them to do work like lighting things up, creating sounds, etc.
 
-The mentor explains that the pencil is the LED that is lit due to the electrons.
+ 3. Participants form a queue and, as they reach the 'battery' participant, the 'battery' gently pushes them to start them moving through the 'circuit'.
 
-After a while, they make a break and the mentor explains to them that if they let them run to fast, the LED could be damaged.
+ 4. Participants travel along the rope, or tape, until they reach the table. When participants reach the table, they pause and lift the object on the table up and then replace it, before continuing to follow the rope back to the 'battery', who again gives them a gentle push to keep them moving through the 'circuit'.
 
-This is the reason that they will put a stool on some part of the rope.
+ 5. The mentor explains how the participants lifting the object on the table represents the electrons doing work, like lighting an LED. 
 
-The stool is there to prevent them from running to fast.
+ 6. The mentor then discusses how, if they tried to do this too quickly, they might damage the object, just as too much electricity can damage things like an LED, a light bulb, or a speaker.
 
-In an actual circuit this is the job of the resistor.
+ 7. The mentor then places an obstacle, such as a chair, on the 'circuit' before participants reach the table.
 
-The mentor and the children play the game again using the stool.
+ 8. The participants move through the 'circuit' again, with the mentor ensuring that they slow down to pass the obstacle safely.
+
+ 9. The mentor points out that moving over, or around, the obstacle will slow the 'electrons' down, and this is what is done in a real circuit using a component called a 'resistor'.
