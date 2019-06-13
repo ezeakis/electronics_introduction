@@ -4,7 +4,7 @@ Electrons are **incredibly** tiny particles. To get some idea of how small, imag
 
 Electrons are part of atoms — the tiny particles of matter that make up everything in the universe. In the following image(*) you can see how the electrons form part of an atom of Magnesium.
 
-![Electrons_around_an_atom_kernel](images/atom-nucleus-153152_1280.png)
+![Electrons_around_an_atom_kernel](images/atom-nucleus-153152_640.png)
 
 What we call 'electricity' is just moving electrons around. All electronic devices work this way, and so do the nerves in your body that let you move your hand, or see these words in front of you. Electrons move very fast, which is why you don't see a delay when you switch on a light, and why computers can do complicated things so quickly!
 
