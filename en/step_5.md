@@ -15,7 +15,7 @@ You will use a breadboard, which helps and connect position electronic component
 
 Lines on a breadboard are like small wires. Placing two components on the same line is like connecting them with a wire.
 
-Here is a diagram of the circuit you will create. You should use a 100 Ohm resistor.
+Here is a diagram of the circuit you will create. You can use a 100 Ohm resistor. Close resistance values (like 220 or 330 Ohm) are also appropriate.
 
 ![LED Circuit](images/introduction_bb-240x300.jpg)
 
